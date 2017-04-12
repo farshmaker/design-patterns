@@ -1,0 +1,10 @@
+*.class
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# output directories
+*target/
